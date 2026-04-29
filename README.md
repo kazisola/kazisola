@@ -1,11 +1,19 @@
 ## 👨‍💻 About Me
 
-My name is **Kazi Solayman**, and I'm a **frontend focused full-stack developer based in Louisiana, USA.** I'm proficient in modern frontend architecture and robust backend solutions. I'm passionate about crafting applications that not only look clean but also perform flawlessly under the hood. My journey started with building interactive user interfaces, and has evolved into developing complete, production-ready digital solutions that are fast, scalable, and maintainable. With a strong focus on performance optimization, scalable design systems, clean and reusable code, I hold a farm foundation in full-stack development.
-With a strong foundation in **JavaScript**, **TypeScript**, **React**, **Next.js**, **Redux/Zustand**, **Tailwind CSS**, **Node.js**, **Express.js**, **RESTful/GraphQL**, **Jest/RTL**, **MongoDB**, **PostgreSQL**, **Docker**, **AWS**, **CI/CD**, **Web3.js/Ethers.js**, I'm always learning and growing myself.
+Full Stack Developer with 4 years of experience building and shipping digital products that real users depend on. Over the course of my career, I've been doing one thing consistently: **building products that ship and solving problems that matter.**
+I'm great at  performance optimization, scalable design systems, writing and maintaining clean, reusable and secured codebase.
+
+I deployed on AWS. Containerized with Docker. Tested with React Testing Library, Jest, and SuperTest. Implemented and optimized CI/CD so things don't break in production.
+
+Tech stack:
+React.js • Next.js • Redux • TypeScript • Tailwind CSS • Node.js • Express.js • RESTful APIs • GraphQL • MongoDB • PostgreSQL • React Native • Python  • FastAPI • Docker • CI/CD Pipelines • AWS • Jest
+
+**Bring me onto your team and I'll make sure you see a positive ROI.** I'm open to **Frontend**, **Full Stack**, or **React Developer** roles.
 
 ---
 
 ## 🛠️ Tech Stack
+> *Not limited to, I adapt like water; whatever shape your stack takes, I fill it*
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
@@ -52,5 +60,5 @@ With a strong foundation in **JavaScript**, **TypeScript**, **React**, **Next.js
 
 ---
 
-📩 **[Email Me](mailto:kazisolayman123@gmail.com)** | 💼 **[LinkedIn](https://linkedin.com/in/kazisolah114)**
+📩 **[Email Me](mailto:kazisolayman123@gmail.com)** | 💼 **[LinkedIn](https://linkedin.com/in/kazisola)**
 
