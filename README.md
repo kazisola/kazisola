@@ -1,11 +1,11 @@
 ## 👨‍💻 About Me
 
-Over the course of my career, I've been doing one thing consistently: **building products that ship and solving problems that matter.**
-As a Full Stack Developer, I'm great at writing and maintaining clean, reusable and secured codebase, scalable design systems, and performance optimization.
+My name is Kazi Solayman, and I'm a Full Stack Engineer. Over the course of my career, I've been doing one thing consistently: **building products that ship and solving problems that matter.**
+I'm great at writing and maintaining clean, reusable and secured codebases, scalable design systems, and performance optimization.
 
-I deployed on AWS. Containerized with Docker. Tested with React Testing Library, Jest, and SuperTest. Implemented and optimized CI/CD Piplines so things don't break in production.
+Alongside just coding softwares, I deployed on AWS, containerized with Docker, tested with testing libraries, implemented and optimized CI/CD Piplines so things don't break in production.
 
-**Bring me onto your team and I'll make sure you see a positive ROI.** I'm open to **Frontend**, **Full Stack**, or **React Developer** roles.
+Currently I'm open to **Frontend**, **Full Stack**, or **React Developer** roles, and I'm confident that if you bring me onto your team, **you'll see positive ROI**.
 
 ---
 
