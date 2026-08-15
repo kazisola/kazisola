@@ -5,12 +5,24 @@ I’m great at writing and maintaining clean, reusable and secured codebases, sc
 
 Beyond building frontend and backend applications, I’ve also worked on deploying them to AWS, containerizing them with Docker, writing automated tests, and optimizing CI/CD pipelines to keep production deployments reliable.
 
-I’m currently open to Frontend, Full Stack, and React Developer roles. I’m confident in my ability to contribute from day one—whether that means building frontend features, developing backend services, or taking ownership of testing, deployment, and production issues.
+
+**Frontend:**
+React • Next.js • TypeScript • JavaScript • Redux • Tailwind CSS • React Native <br/>
+**Backend:**
+Node.js • Express.js • NestJS • Python • FastAPI • REST APIs • GraphQL <br/>
+**Databases & ORM:**
+PostgreSQL • MongoDB • Redis • Prisma • SQLAlchemy <br/>
+**Cloud & DevOps:**
+AWS (EC2 • S3 • RDS • CloudFront • IAM • CloudWatch • ECS • ECR) • Docker • CI/CD • Git <br/>
+**Testing:**
+Jest • SuperTest • Playwright • Pytest
+
+
+I’m currently open to Full Stack and Frontend Developer roles. I’m confident in my ability to contribute from day one—whether that means building frontend features, developing backend services, or taking ownership of testing, deployment, and production issues.
 
 ---
 
 ## 🛠️ Tech Stack
-> *Not limited to, I adapt like water; whatever shape your stack takes, I fill it*
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
