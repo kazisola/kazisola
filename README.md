@@ -48,7 +48,6 @@ I’m currently open to Full Stack and Frontend Developer roles. I’m confident
 ![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo_GraphQL-311C87?logo=apollographql&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-FF6F00?logo=swagger&logoColor=white)
