@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-My name is Kazi Solayman, and I’m a Full Stack Developer. My experience covers both frontend and backend development, including building user-facing applications, developing REST APIs and backend services, working with databases, and integrating external services.
+My name is Kazi Solayman, and I’m a Full Stack Engineer. My experience covers both frontend and backend development, including building user-facing applications, developing REST APIs and backend services, working with databases, and integrating external services.
 I’m great at writing and maintaining clean, reusable and secured codebases, scalable design systems, and performance optimization.
 
 Beyond building frontend and backend applications, I’ve also worked on deploying them to AWS, containerizing them with Docker, writing automated tests, and optimizing CI/CD pipelines to keep production deployments reliable.
